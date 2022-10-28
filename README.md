@@ -19,8 +19,6 @@ Udemy TypeScript for Professionals - 2022 Edition<br />
 <em>-y</em> is used to select default options <br />
 <li>npm i typescript</em></li> 
 To additionally install typescript compiler <br />
-<li><em>npx tsc --init</em></li> 
-To initialize typescript configuration options json file <strong>tsconfig</strong><br />
 <li><em>npx tsc --init --rootdir src --outdir lib</em></li> 
 To initialize typescript configuration options json file <strong>tsconfig</strong>. <br />
 All source code will be located in <strong>src</strong> folder. Output js code will be generated in <strong>lib</strong> folder <br />
