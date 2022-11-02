@@ -2,7 +2,7 @@ function add(a: number, b: number): number {
   return a + b;
 }
 
-function log(message: string): void {
+function log3(message: string): void {
   console.log("LOG: ", message);
 }
 
