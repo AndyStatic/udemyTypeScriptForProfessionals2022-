@@ -1,5 +1,8 @@
 # udemyTypeScriptForProfessionals2022-
 Udemy TypeScript for Professionals - 2022 Edition<br />
+This is a code learned as part of TypeScript for Professionals - 2022 Edition Udemy course by Basarat Ali Syed<br />
+[https://www.udemy.com/course/typescript-for-professionals](https://www.udemy.com/course/typescript-for-professionals)<br />
+Code is used only as a learning notes, so all credits goes to course instructor and Udemy platform<br />
 <br />
 ## Setup
 <ol>
